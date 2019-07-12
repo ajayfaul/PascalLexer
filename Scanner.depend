@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562849963 source:e:\consoleproject\programscanner3\scanner\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<cstdio>
+
